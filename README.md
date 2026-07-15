@@ -1,56 +1,54 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24351
-Fork on GitHub
-8371
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Deepanshu%20Dubey&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20%26%20Agentic%20AI%20Specialist&descAlignY=55" width="100%"/>
 
-back to edit
+# 👋 Hi, I'm Deepanshu Dubey
 
-copy-markdown
+### 🤖 AI Engineer | 🧠 LLM & Agentic AI Specialist | ⚡ MLOps Enthusiast
 
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Deepanshu Dubey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 📫 How to reach me **deep.dws.mp@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-00ADD8?style=flat&logo=graph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4EA94B?style=flat&logo=elastic&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%205%20Autonomous%20Agents%20Deployed-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⏱️%2010→4%20Days%20Close%20Time-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💰%20%3C%2430%2FMonth%20Cloud%20Cost-0088CC?style=for-the-badge"/>
+</p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshu-dubey&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-dubey&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 💫 About Me
+
+🔭 **Currently:** AI Engineer at Octane Software Solutions (Australia)  
+👨‍💻 **Building:** Multi-agent AI systems for finance automation  
+🌱 **Learning:** Advanced LLMOps & Agentic AI architectures  
+🤝 **Open to:** Collaborating on Agentic AI & RAG projects  
+💬 **Ask me about:** LangChain, LangGraph, RAG, Multi-Agent Systems  
+⚡ **Achievement:** Reduced month-end close time from 10 to 4 days  
+
+---
+
+## 🛠️ Tech Stack
+
+```python
+{
+  "Languages": ["Python", "C++"],
+  "Frameworks": ["LangChain", "LangGraph", "LangFuse", "CrewAI", "FastAPI"],
+  "Tools": ["Docker", "AWS (EC2/S3/CloudWatch)", "GitHub Actions"],
+  "Expertise": ["LLMOps", "Multi-Agent Systems", "RAG Pipeline Design", 
+                "Model Observability", "MCP", "A2A Protocols"]
+}
