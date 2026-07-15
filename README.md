@@ -40,6 +40,11 @@
 💬 **Ask me about:** LangChain, LangGraph, RAG, Multi-Agent Systems  
 ⚡ **Achievement:** Reduced month-end close time from 10 to 4 days  
 
+📫 **Let's Connect:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-dubey)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu500Dubey)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deep.dws.mp@gmail.com)
+
 ---
 
 ## 🛠️ Tech Stack
