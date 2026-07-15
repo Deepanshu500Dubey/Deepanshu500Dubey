@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/💰%20%3C%2430%2FMonth%20Cloud%20Cost-0088CC?style=for-the-badge"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshu-dubey&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu500Dubey&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-dubey&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu500Dubey&theme=radical&hide_border=true)
 
 </div>
 
