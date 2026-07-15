@@ -8,12 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+Engineer;LLM+Application+Developer;Agentic+AI+Specialist;Building+Multi-Agent+Systems;RAG+%7C+MCP+%7C+LangGraph+%7C+FastAPI"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepanshu500Dubey&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Deepanshu500Dubey?label=Followers&style=for-the-badge&color=success"/>
-  <img src="https://img.shields.io/github/stars/Deepanshu500Dubey?affiliations=OWNER&style=for-the-badge&color=yellow"/>
-</p>
-
 </div>
 
 ---
@@ -72,14 +66,6 @@ I'm an **AI Engineer** passionate about building intelligent, agentic systems th
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu500Dubey&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-## 🏅 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepanshu500Dubey&theme=algolia&margin-w=15&no-frame=true&column=6"/>
 </div>
 
 ---
